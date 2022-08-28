@@ -1,3 +1,8 @@
-# this is my solution for the Theo, Dan Abramov video
+# Another DevmentorLive Stream source code repo
 
-https://www.youtube.com/watch?v=uqII0AOW1NM
+Please consider supporting my work so I can continue to bring you high
+quality content! It's only a buck to you, but it means the world to me.
+
+## Support Mark's work!
+
+🔗 https://bit.ly/3AsW2Y7
